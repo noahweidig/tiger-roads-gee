@@ -3,6 +3,8 @@
 This repository hosts a visualization of the TIGER/Line® roads dataset within Google Earth Engine (GEE).  
 The project includes an interactive map and formatted JavaScript code for working with TIGER roads data.  
 
+![TIGER Roads in GEE](images/tiger-roads-image.png)
+
 > [!IMPORTANT]
 > In order to use this data, you must have a Google account and register for an Google Earth Engine Project.
 ---
